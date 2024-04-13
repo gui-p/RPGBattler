@@ -1,13 +1,14 @@
+using RolePlayBattler.Domain.Enum;
 using System;
 
-namespace RPG
+namespace RolePlayBattler.Domain
 {
     public static class CharacterSheetFactory
     {
 
         public static int Instances {get; private set;} = 0;
 
-        public static CharacterSheet CreateRandomCharacter()
+        public static CharacterSheet CreateRandomCharacterSheet()
         {
             Instances++;
             Random random = new();

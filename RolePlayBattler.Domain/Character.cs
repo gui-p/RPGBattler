@@ -1,14 +1,14 @@
 using System;
 
-namespace RPG
+namespace RolePlayBattler.Domain
 {
     public class Character
     {
         public CharacterSheet CharSheet {get; set;}
 
-        public Character()
+        public Character(CharacterSheet sheet)
         {
-            CharSheet = CharacterSheetFactory.CreateRandomCharacter();
+            CharSheet = sheet;
         }
         public void DoDamage(Character character)
         {

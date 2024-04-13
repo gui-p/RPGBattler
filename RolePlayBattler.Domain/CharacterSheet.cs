@@ -1,4 +1,6 @@
-namespace RPG
+using RolePlayBattler.Domain.Enum;
+
+namespace RolePlayBattler.Domain
 {
 
     public class CharacterSheet
@@ -43,12 +45,6 @@ namespace RPG
 
             return $"Name = {Name} - Race = {race} - HP = {HealthPoints}\n{Attributes} -";
         }
-
-    }
-
-    public enum Race
-    {
-        Human = 1, Elf = 2, Dwarf = 3
 
     }
 

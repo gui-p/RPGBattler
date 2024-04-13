@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayBattler.ConsoleApp", "RolePlayBattler.ConsoleApp\RolePlayBattler.ConsoleApp.csproj", "{18D9D399-0B71-4769-85EA-392220F7C726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayBattler.Domain", "RolePlayBattler.Domain\RolePlayBattler.Domain.csproj", "{C5E681B6-BADC-408F-BB4B-35A356FC66F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D9D399-0B71-4769-85EA-392220F7C726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D9D399-0B71-4769-85EA-392220F7C726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D9D399-0B71-4769-85EA-392220F7C726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D9D399-0B71-4769-85EA-392220F7C726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E681B6-BADC-408F-BB4B-35A356FC66F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E681B6-BADC-408F-BB4B-35A356FC66F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E681B6-BADC-408F-BB4B-35A356FC66F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E681B6-BADC-408F-BB4B-35A356FC66F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

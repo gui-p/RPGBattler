@@ -1,0 +1,17 @@
+/home/gcp/Projetos/Dotnet/Teste/bin/Debug/net8.0/Teste
+/home/gcp/Projetos/Dotnet/Teste/bin/Debug/net8.0/Teste.deps.json
+/home/gcp/Projetos/Dotnet/Teste/bin/Debug/net8.0/Teste.runtimeconfig.json
+/home/gcp/Projetos/Dotnet/Teste/bin/Debug/net8.0/Teste.dll
+/home/gcp/Projetos/Dotnet/Teste/bin/Debug/net8.0/Teste.pdb
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.AssemblyInfoInputs.cache
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.AssemblyInfo.cs
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.csproj.CoreCompileInputs.cache
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.dll
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/refint/Teste.dll
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.pdb
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.genruntimeconfig.cache
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/ref/Teste.dll
+/home/gcp/Projetos/Dotnet/Teste/bin/Debug/net8.0/Dapper.dll
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.csproj.AssemblyReference.cache
+/home/gcp/Projetos/Dotnet/Teste/obj/Debug/net8.0/Teste.csproj.Up2Date

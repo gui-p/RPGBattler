@@ -1,4 +1,4 @@
-namespace DnD
+namespace RPG
 {
 
     public class CharacterSheet

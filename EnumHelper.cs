@@ -1,16 +1,13 @@
 using System.Reflection;
+using System;
 
-namespace DnD.Helpers
+namespace RPG.Helpers
 {
     public static class EnumHelper
     {
-        public static Array GetRandomEnum<T>() where T : Enum 
+        public static T GetRandomEnum<T>() where T : Enum
         {
-            Random random = new();
-            Type type = typeof(T);
-            Array properties = type.GetEnumValues();
-            //int RandNum = random.Next(0, properties.);            
-            return properties;
+            throw new NotImplementedException();
         }
     }
 }

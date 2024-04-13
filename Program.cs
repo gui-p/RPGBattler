@@ -1,19 +1,15 @@
 ﻿
 using System;
-using DnD.Helpers;
+using RPG.Helpers;
 
-namespace DnD
+namespace RPG
 {
     
     public class Program
     {
         public static void Main(String[] args)
         {
-            Array a = EnumHelper.GetRandomEnum<Race>();
-            foreach(var algo in a)
-            {
-                Console.WriteLine(algo.ToString());
-            }
+            
         }
     }
 }

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gcp/Projetos/Dotnet/Teste/DnD.csproj",
-      "projectName": "DnD",
-      "projectPath": "/home/gcp/Projetos/Dotnet/Teste/DnD.csproj",
+      "projectUniqueName": "/home/gcp/Projetos/Dotnet/Teste/RPG.csproj",
+      "projectName": "RPG",
+      "projectPath": "/home/gcp/Projetos/Dotnet/Teste/RPG.csproj",
       "packagesPath": "/home/gcp/.nuget/packages/",
       "outputPath": "/home/gcp/Projetos/Dotnet/Teste/obj/",
       "projectStyle": "PackageReference",

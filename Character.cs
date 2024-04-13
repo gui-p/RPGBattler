@@ -1,6 +1,6 @@
 using System;
 
-namespace DnD
+namespace RPG
 {
     public class Character
     {

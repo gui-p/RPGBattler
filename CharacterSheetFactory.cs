@@ -1,6 +1,6 @@
 using System;
 
-namespace DnD
+namespace RPG
 {
     public static class CharacterSheetFactory
     {
@@ -17,6 +17,5 @@ namespace DnD
             CharacterSheet charac = new(name, Race.Human, hp, attr);
             return charac;
         }
-
     }
 }

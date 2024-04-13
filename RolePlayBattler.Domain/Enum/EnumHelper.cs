@@ -1,11 +1,10 @@
-using System.Reflection;
 using System;
 
-namespace RPG.Helpers
+namespace RolePlayBattler.Domain.Enum
 {
     public static class EnumHelper
     {
-        public static T GetRandomEnum<T>() where T : Enum
+        public static T GetRandomEnum<T>() where T : System.Enum
         {
             throw new NotImplementedException();
         }

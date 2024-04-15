@@ -11,6 +11,9 @@ namespace RolePlayBattler.ConsoleApp
             CharacterSheet sheet = CharacterSheetFactory.CreateRandomCharacterSheet();
             Console.WriteLine(sheet);
             Character c = new(sheet);
+
+            
+
         }
     }
 }

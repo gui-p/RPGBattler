@@ -6,7 +6,9 @@ namespace RolePlayBattler.Domain.Enum
     {
         public static T GetRandomEnum<T>() where T : System.Enum
         {
-            throw new NotImplementedException();
+            Random random = new();
+            var values = System.Enum.GetValues(typeof(T));
+            return (T)values.GetValue(random.Next(values.Length))!;
         }
     }
 }

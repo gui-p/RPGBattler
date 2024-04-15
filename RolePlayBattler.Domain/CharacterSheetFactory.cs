@@ -15,7 +15,8 @@ namespace RolePlayBattler.Domain
             Attributes attr = new(random.Next(1, 4),random.Next(1, 4),random.Next(1, 4),random.Next(1, 4));
             string name = "Figther" + Instances; 
             int hp = random.Next(1,7) + attr.Strength;
-            CharacterSheet charac = new(name, Race.Human, hp, attr);
+            Race race = EnumHelper.GetRandomEnum<Race>();
+            CharacterSheet charac = new(name, race, hp, attr);
             return charac;
         }
     }
